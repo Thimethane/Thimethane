@@ -1,9 +1,11 @@
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Thimethane&theme=default" width="100%" />
+<p align="center">
+  <img src="assets/banner.svg" alt="Thimethane — Data Science & Full-Stack" width="100%" />
+</p>
 
-# 👋 Thimethane — Data Science & Full-Stack Engineering Portfolio
+# 👋 Thimethane — Data Science & Full-Stack Portfolio
 
 I build **data-driven applications**, **interactive full-stack systems**, and **reliable software tools**.  
-This GitHub showcases selected work across **data science**, **backend engineering**, and **systems programming**.
+This GitHub showcases selected work across **Data Science**, **Backend Engineering**, **Machine Learning**, and **Systems Programming**.
 
 ---
 
@@ -15,6 +17,8 @@ This GitHub showcases selected work across **data science**, **backend engineeri
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F3631D?style=flat-square&logo=jupyter&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-6F2DBD?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ---
 
@@ -26,6 +30,7 @@ This GitHub showcases selected work across **data science**, **backend engineeri
 ![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat-square&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ---
 
@@ -58,78 +63,69 @@ This GitHub showcases selected work across **data science**, **backend engineeri
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thimethane&theme=github-light" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Thimethane&theme=flat&no-frame=true" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thimethane&theme=github-light" alt="Contribution graph" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-Below are curated repositories that highlight my work across data science, backend engineering, and systems programming.
+## 🔭 **Codescraftsman** — Private Data Science Portfolio  
+Comprehensive personal portfolio showcasing **Data Science, Machine Learning, and Software Development**. Includes AI chatbot (**EthanicBot**) with Django & LangChain, dashboards, analytics, and machine learning models.  
+**Tech:** Python, Django, LangChain, PyTorch, Celery, Redis, HTML, CSS, JavaScript  
+🔗 [View Repository](https://gitfront.io/r/Thimethane/ucyPJ4GgME7t/codescraftman)
 
 ---
 
-## 🔭 **codescraftman** — Data Science Portfolio  
-Reproducible Jupyter notebooks, ML experiments, and well-documented data analysis workflows.  
-Focuses on clarity, reproducibility, and actionable insights.  
-**Tech:** Python, Pandas, NumPy, Scikit-learn  
-🔗 https://gitfront.io/r/Thimethane/ucyPJ4GgME7t/codescraftman/
+## 🔧 **CodeFusion-Portfolio** — Dockerized Full-Stack Portfolio  
+Modern full-stack app combining **Laravel frontend** and **FastAPI backend** with ML integration, real-time chat, and interactive analytics dashboards.  
+**Tech:** Laravel, PHP, FastAPI, Python, Docker, MySQL, WebSockets, Chart.js  
+🔗 [View Repository](https://gitfront.io/r/Thimethane/HBVS1hzFgJp7/CodeFusion-Portfolio/)
 
 ---
 
-## 🔧 **CodeFusion-Portfolio** — Full-Stack Interactive Portfolio  
-A multi-service portfolio platform combining **Laravel**, **FastAPI**, **MySQL**, **real-time chat**, containerized services, and ML features.  
-Designed for modularity, performance, and developer experience.  
-**Tech:** Laravel, PHP, FastAPI, Python, Docker, MySQL  
-🔗 https://gitfront.io/r/Thimethane/HBVS1hzFgJp7/CodeFusion-Portfolio/
----
-
-## 🐚 **simple_shell** — Systems Programming in C  
-A minimal Unix-like shell written from scratch.  
-Demonstrates key low-level concepts: parsing, process control, memory management, and system calls.  
-**Tech:** C, Unix API  
-🔗 https://github.com/Thimethane/simple_shell
+## 🐚 **simple_shell** — UNIX Shell in C  
+Minimal Unix-like shell project demonstrating parsing, process control, built-in commands (`exit`, `cd`, `env`), and system calls. Ideal for **systems programming examples**.  
+**Tech:** C, Unix API, Bash  
+🔗 [View Repository](https://github.com/Thimethane/simple_shell)
 
 ---
 
 ## ☎️ **ussd-tourism** — Java USSD Application  
-A backend USSD platform built for tourism services. Shows clean Java architecture, telecom integration, and request-response handling.  
-**Tech:** Java, HTTP APIs  
-🔗 https://github.com/Thimethane/ussd-tourism
+Server-side Java application for tourism services. Built with Spring Boot, integrates with databases and APIs for telephony interactions.  
+**Tech:** Java, Spring Boot, MySQL, HTTP APIs  
+🔗 [View Repository](https://github.com/Thimethane/ussd-tourism)
 
 ---
 
-## ⛅ **WeatherApplication** — Java Web/Mobile App  
-A weather info service demonstrating API consumption, Java UI, and a simple backend flow.  
-**Tech:** Java, CSS, REST APIs  
-🔗 https://github.com/Thimethane/WeatherApplication
+## ⛅ **WeatherApplication** — JavaFX Weather App  
+JavaFX desktop application displaying current weather and 7-day forecasts. Features dynamic UI backgrounds and unit conversion.  
+**Tech:** Java, JavaFX, Maven, REST APIs  
+🔗 [View Repository](https://gitfront.io/r/Thimethane/7sP6yRanvzUj/WeatherApplication/)
 
 ---
 
 # 👤 About Me
 
 - **Role:** Data Scientist & Full-Stack Engineer  
-- **Interests:** Machine Learning, backend systems, API design, developer tooling, automation  
-- **Main Stacks:** Python • PHP (Laravel) • Java • Kotlin • C • Docker • FastAPI • Django  
+- **Interests:** Machine Learning, backend systems, API design, developer tooling  
+- **Main Stacks:** Python • Django • FastAPI • PHP • Laravel • Java • Kotlin • Swift • C • Docker • Kubernetes  
 - **Contact:**  
-  📧 **ringutimothee@gmail.com**  
-  🔗 **https://www.linkedin.com/in/timotheeringuyeneza/**
+📧 ringutimothee@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/timotheeringuyeneza/)
 
 ---
 
 # 🧭 How to Browse This Account
 
-- Pin **4–6 important repositories**  
-  *(Recommended: CodeFusion-Portfolio, codescraftman, simple_shell, ussd-tourism).*  
-- Add GitHub Topics for visibility:  
-  `machine-learning`, `data-science`, `laravel`, `java`, `kotlin`, `django`, `docker`, `c-programming`, `portfolio`, `kubernetes`  
-- For every public repo, include:  
-  - `README.md`  
-  - `LICENSE`  
-  - `CONTRIBUTING.md`  
-  - `CODE_OF_CONDUCT.md`  
-  - Optional: GitHub Actions CI  
+- Pin 4–6 important repositories *(Recommended: CodeFusion-Portfolio, Codescraftsman, simple_shell, ussd-tourism)*  
+- Use GitHub Topics for discoverability: `data-science`, `machine-learning`, `laravel`, `django`, `fastapi`, `c-programming`, `kotlin`, `swift`, `docker`, `kubernetes`, `portfolio`  
+- Each repo should have: `README.md`, `LICENSE`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, and optionally CI/CD  
 
 ---
 
-## ✔️ *Thank you for exploring my work — contributions, issues, and suggestions are always welcome!*
+## ✔️ Thank you for exploring my work — contributions, issues, and suggestions are welcome!
