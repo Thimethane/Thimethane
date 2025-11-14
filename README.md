@@ -73,7 +73,7 @@ Below are curated repositories that highlight my work across data science, backe
 Reproducible Jupyter notebooks, ML experiments, and well-documented data analysis workflows.  
 Focuses on clarity, reproducibility, and actionable insights.  
 **Tech:** Python, Pandas, NumPy, Scikit-learn  
-🔗 https://github.com/Thimethane/codescraftman
+🔗 https://gitfront.io/r/Thimethane/ucyPJ4GgME7t/codescraftman/
 
 ---
 
@@ -81,8 +81,7 @@ Focuses on clarity, reproducibility, and actionable insights.
 A multi-service portfolio platform combining **Laravel**, **FastAPI**, **MySQL**, **real-time chat**, containerized services, and ML features.  
 Designed for modularity, performance, and developer experience.  
 **Tech:** Laravel, PHP, FastAPI, Python, Docker, MySQL  
-🔗 https://github.com/Thimethane/CodeFusion-Portfolio
-
+🔗 https://gitfront.io/r/Thimethane/HBVS1hzFgJp7/CodeFusion-Portfolio/
 ---
 
 ## 🐚 **simple_shell** — Systems Programming in C  
