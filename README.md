@@ -1,19 +1,5 @@
 <!-- Dynamic Public Banner -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thimethane&show_icons=true&hide_border=false&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thimethane&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thimethane&theme=flat&no-frame=true" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thimethane&theme=github-light" alt="Activity Graph" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Thimethane&theme=default" width="100%" />
 
 # 👋 Thimethane — Data Science & Full-Stack Portfolio
 
