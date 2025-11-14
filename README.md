@@ -73,23 +73,6 @@ This GitHub showcases my journey from **college projects** to **professional wor
 
 ---
 
-## ⭐ Starred Repositories
-
-These are repositories I’ve starred to learn from, explore best practices, and stay updated in **Data Science**, **Full-Stack Development**, and **Cloud/DevOps**.
-
-| Repository | Description | Link |
-|-----------|-------------|------|
-| `awesome-python` 🐍 | Curated list of Python frameworks, libraries, and tools for learning and projects. | [Link](https://github.com/vinta/awesome-python) |
-| `django-rest-framework` 🌐 | Powerful and flexible toolkit for building Web APIs with Django. | [Link](https://github.com/encode/django-rest-framework) |
-| `fastapi` ⚡ | Modern, fast (high-performance) web framework for building APIs with Python 3.7+ | [Link](https://github.com/tiangolo/fastapi) |
-| `docker-labs` 🐳 | Tutorials and examples for learning Docker, containers, and DevOps workflows. | [Link](https://github.com/docker/labs) |
-| `kubernetes` ☸️ | Official Kubernetes repository with examples, docs, and tools for orchestration. | [Link](https://github.com/kubernetes/kubernetes) |
-| `awesome-machine-learning` 🤖 | Curated list of machine learning frameworks, libraries, and software. | [Link](https://github.com/josephmisiti/awesome-machine-learning) |
-| `system-programming` 💻 | Collection of C and Unix system programming examples for learning low-level concepts. | [Link](https://github.com/torvalds/linux) |
-
-
-
-
 # 🚀 Featured Projects
 
 ## 🔭 **Codescraftsman** — Private Data Science Portfolio  
@@ -145,5 +128,18 @@ JavaFX desktop application displaying current weather and 7-day forecasts. Featu
 - Each repo should have: `README.md`, `LICENSE`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`, and optionally CI/CD  
 
 ---
+## ⭐ Starred Repositories
+
+These are repositories I’ve starred to learn from, explore best practices, and stay updated in **Data Science**, **Full-Stack Development**, and **Cloud/DevOps**.
+
+| Repository | Description | Link |
+|-----------|-------------|------|
+| `awesome-python` 🐍 | Curated list of Python frameworks, libraries, and tools for learning and projects. | [Link](https://github.com/vinta/awesome-python) |
+| `django-rest-framework` 🌐 | Powerful and flexible toolkit for building Web APIs with Django. | [Link](https://github.com/encode/django-rest-framework) |
+| `fastapi` ⚡ | Modern, fast (high-performance) web framework for building APIs with Python 3.7+ | [Link](https://github.com/tiangolo/fastapi) |
+| `docker-labs` 🐳 | Tutorials and examples for learning Docker, containers, and DevOps workflows. | [Link](https://github.com/docker/labs) |
+| `kubernetes` ☸️ | Official Kubernetes repository with examples, docs, and tools for orchestration. | [Link](https://github.com/kubernetes/kubernetes) |
+| `awesome-machine-learning` 🤖 | Curated list of machine learning frameworks, libraries, and software. | [Link](https://github.com/josephmisiti/awesome-machine-learning) |
+| `system-programming` 💻 | Collection of C and Unix system programming examples for learning low-level concepts. | [Link](https://github.com/torvalds/linux) |
 
 ## ✔️ Thank you for exploring my work — contributions, issues, and suggestions are welcome!
