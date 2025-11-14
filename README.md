@@ -4,7 +4,7 @@
 # 👋 Thimethane — Data Science & Full-Stack Portfolio
 
 I build **data-driven applications**, **interactive full-stack systems**, and **reliable software tools**.  
-This GitHub showcases selected work across **Data Science**, **Backend Engineering**, **Machine Learning**, and **Systems Programming**.
+This GitHub showcases my journey from **college projects** to **professional work**, spanning **Data Science**, **Backend Engineering**, **Machine Learning**, and **Systems Programming**.
 
 ---
 
