@@ -104,7 +104,7 @@ Server-side Java application for tourism services. Built with Spring Boot, integ
 ## ⛅ **WeatherApplication** — JavaFX Weather App  
 JavaFX desktop application displaying current weather and 7-day forecasts. Features dynamic UI backgrounds and unit conversion.  
 **Tech:** Java, JavaFX, Maven, REST APIs  
-🔗 [View Repository](https://gitfront.io/r/Thimethane/7sP6yRanvzUj/WeatherApplication/)
+🔗 [View Repository](https://github.com/Thimethane/WeatherApplication)
 
 ---
 
