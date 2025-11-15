@@ -1,5 +1,5 @@
 <!-- Dynamic Public Banner: Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thimethane&theme=auto&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thimethane&theme=auto&hide_border=true&count_private=true" width="100%" />
 
 
 <p align="center">
