@@ -113,6 +113,19 @@ I’m a **Computer Scientist** building **intelligent, data-driven applications*
 
 # 🚀 Featured Projects
 
+---
+
+### 🔭 **iOS Test Tracking App – Swift Playground**
+
+A **SwiftUI-based interactive task tracker** simulating research tasks for ABC Computers PVT LTD. Tracks **TestSet 1 (odd days)** and **TestSet 2 (even days)** over a three-month period with dynamic generation and interactive status updates.
+
+<img width="720" height="480" alt="Task List Screenshot" src="https://github.com/user-attachments/assets/50bf0d9f-e040-4c97-9934-26b311784a8f"/>  
+
+**Tech:** Swift 5.9, SwiftUI, Xcode Playground
+🔗 [View Repository](https://github.com/Thimethane/swiftful-playgound)
+
+---
+
 ### 🔭 **CodesCraftsman** — AI-Powered Developer Portfolio  
 Personal portfolio integrating **live ML demos**, LangChain chatbot, dashboards, and more.  
 **Tech:** Django, LangChain, Python, PyTorch, Redis  
