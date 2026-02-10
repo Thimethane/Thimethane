@@ -1,12 +1,20 @@
 <!-- Dynamic Public Banner: Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thimethane&theme=auto&hide_border=true&count_private=true" width="100%" />
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Timothe+Ringuyeneza+👋;AI+Engineer+%7C+Full-Stack+Engineer+%7C+Cloud+%26+DevOps+Engineer;Building+Intelligent+Systems+with+AI%2C+Cloud%2C+and+Secure+Engineering!">
 </p>
 
 I’m a **Computer Scientist** building **intelligent, data-driven applications** and **scalable full-stack systems**. I specialize in **AI & Machine Learning**, **backend & frontend engineering**, and **cloud-native development**, by combining **practical engineering, computational thinking, and AI expertise** to deliver **innovative solutions** that solve real-world problems.
+
+---
+
+## 🎨 Creative Coding & Computer Graphics
+
+I explore **interactive graphics, computer graphics modeling, and web-based visualizations** through hands-on projects and experiments.  
+My CodePen profile showcases a collection of **WebGL experiments, animations, polygons, and creative coding demos**, demonstrating concepts such as **vertices, transformations, and real-time rendering**.
+
+🔗 **Explore my Computer Graphics Projects on CodePen:** [https://codepen.io/Thimethane](https://codepen.io/Thimethane)
 
 ---
 
@@ -92,6 +100,7 @@ I’m a **Computer Scientist** building **intelligent, data-driven applications*
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ---
+
 # 📊 GitHub Metrics
 
 <p align="center">
@@ -100,12 +109,10 @@ I’m a **Computer Scientist** building **intelligent, data-driven applications*
 </p>
 
 <p align="center">
-  <!-- Profile Trophies (Auto Theme) -->
   <img src="https://github-profile-trophy.vercel.app/?username=Thimethane&theme=default&row=1&column=7&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
 <p align="center">
-  <!-- Contribution Graph Snake Animation (Auto Theme) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thimethane&theme=default&hide_border=false" alt="Contribution graph" />
 </p>
 
@@ -113,15 +120,10 @@ I’m a **Computer Scientist** building **intelligent, data-driven applications*
 
 # 🚀 Featured Projects
 
----
-
 ### 🔭 **iOS Test Tracking App – Swift Playground**
-
 A **SwiftUI-based interactive task tracker** simulating research tasks for ABC Computers PVT LTD. Tracks **TestSet 1 (odd days)** and **TestSet 2 (even days)** over a three-month period with dynamic generation and interactive status updates.
 
-<img width="720" height="480" alt="Task List Screenshot" src="https://github.com/user-attachments/assets/50bf0d9f-e040-4c97-9934-26b311784a8f"/>  
-
-**Tech:** Swift 5.9, SwiftUI, Xcode Playground
+**Tech:** Swift 5.9, SwiftUI, Xcode Playground  
 🔗 [View Repository](https://github.com/Thimethane/swiftful-playgound)
 
 ---
@@ -131,22 +133,29 @@ Personal portfolio integrating **live ML demos**, LangChain chatbot, dashboards,
 **Tech:** Django, LangChain, Python, PyTorch, Redis  
 🔗 [View Repository](https://gitfront.io/r/Thimethane/ucyPJ4GgME7t/codescraftman)
 
+---
 
 ### ⚡ **CodeFusion Platform** — Dockerized Full-Stack System  
 Laravel + FastAPI platform with **ML sentiment analysis**, real-time chat, and dashboards.  
 **Tech:** Laravel, PHP, FastAPI, Python, Docker, MySQL  
 🔗 [View Repository](https://gitfront.io/r/Thimethane/HBVS1hzFgJp7/CodeFusion-Portfolio/)
 
+---
+
+### 🖥️ **Computer Graphics Projects – WebGL & Creative Coding**
+A collection of interactive **WebGL-based computer graphics experiments** including polygons, transformations, and real-time animations.  
+**Tech:** WebGL, Three.js, JavaScript, HTML, CSS  
+🔗 **Explore CodePen Portfolio:** [https://codepen.io/Thimethane](https://codepen.io/Thimethane)
+
+---
 
 ### 🐚 **simple_shell** — UNIX Shell in C  
 Implements parsing, process control, and system calls.  
 🔗 [View Repository](https://github.com/Thimethane/simple_shell)
 
-
 ### ☎️ **ussd-tourism** — Java USSD Service  
 Spring Boot USSD application for tourism services.  
 🔗 [View Repository](https://github.com/Thimethane/ussd-tourism)
-
 
 ### ⛅ **WeatherApplication** — JavaFX Weather App  
 Real-time weather forecast app with clean UI and API integration.  
@@ -162,8 +171,12 @@ Real-time weather forecast app with clean UI and API integration.
 - Mentor & community instructor (Python, Data Analytics, AI)  
 - Former **Tech Club President** and hackathon organizer
 
-📧 **Email:** ringutimothee@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/timotheeringuyeneza/
+📫 **Email:** ringutimothee@gmail.com  
+
+**Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timotheeringuyeneza/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Thimethane)  
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/Thimethane)
 
 ---
 
