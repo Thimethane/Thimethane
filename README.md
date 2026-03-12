@@ -16,6 +16,12 @@ My CodePen profile showcases a collection of **WebGL experiments, animations, po
 
 🔗 **Explore my Computer Graphics Projects on CodePen:** [https://codepen.io/Thimethane](https://codepen.io/Thimethane)
 
+### Earth and Moon Animation
+
+[![Earth and Moon Animation Preview](https://screenshot.codepen.io/QwKGZPM/lg.png)](https://codepen.io/Thimethane/full/QwKGZPM)
+
+> **[Click here to view the live interactive animation on CodePen](https://codepen.io/Thimethane/full/QwKGZPM)**
+
 ---
 
 # 🚀 Tech Stack
