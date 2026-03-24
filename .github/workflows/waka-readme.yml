@@ -1,1 +1,28 @@
+name: ⏱️ Update WakaTime Stats
 
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: Update WakaTime Stats in README
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with WakaTime stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # ↑ Add WAKATIME_API_KEY to your repo Secrets:
+          #   GitHub repo → Settings → Secrets → Actions → New secret
+          #   Get your API key from: https://wakatime.com/settings/api-key
+          SHOW_TITLE: true
+          BLOCKS: "░▒▓█"
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          LANG_COUNT: 6
+          COMMIT_MESSAGE: "⏱️ Update WakaTime stats [skip ci]"
