@@ -1,1 +1,82 @@
+name: 🗂️ Update Latest Repositories
 
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-repos:
+    runs-on: ubuntu-latest
+    name: Fetch and update latest repos in README
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch latest repos and update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: Thimethane
+        run: |
+          python - <<'EOF'
+          import os, requests, re
+
+          username = os.environ["GITHUB_USERNAME"]
+          token    = os.environ["GITHUB_TOKEN"]
+
+          headers = {
+              "Authorization": f"token {token}",
+              "Accept": "application/vnd.github.v3+json",
+          }
+
+          # Fetch up to 6 most recently updated public repos
+          url = f"https://api.github.com/users/{username}/repos"
+          params = {"sort": "updated", "direction": "desc", "per_page": 6, "type": "public"}
+          repos = requests.get(url, headers=headers, params=params).json()
+
+          # Build markdown table rows
+          rows = [
+              "| Repository | Description | Language | ⭐ |",
+              "|:-----------|:-----------|:---------|:--|",
+          ]
+          for r in repos:
+              name  = r.get("name", "")
+              desc  = r.get("description") or "_No description_"
+              lang  = r.get("language") or "—"
+              stars = r.get("stargazers_count", 0)
+              link  = r.get("html_url", "")
+              star_badge = f"![Stars](https://img.shields.io/github/stars/{username}/{name}?style=flat-square&color=00b4d8)"
+              rows.append(f"| [{name}]({link}) | {desc} | {lang} | {star_badge} |")
+
+          new_block = "\n".join(rows)
+
+          with open("README.md", "r") as f:
+              content = f.read()
+
+          pattern = r"(<!-- REPO-LIST:START -->).*?(<!-- REPO-LIST:END -->)"
+          replacement = f"<!-- REPO-LIST:START -->\n{new_block}\n<!-- REPO-LIST:END -->"
+          updated = re.sub(pattern, replacement, content, flags=re.DOTALL)
+
+          with open("README.md", "w") as f:
+              f.write(updated)
+
+          print(f"✅ Updated README with {len(repos)} latest repositories.")
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet && echo "No changes" || (
+            git add README.md
+            git commit -m "🗂️ Auto-update latest repositories [skip ci]"
+            git push
+          )
