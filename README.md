@@ -1,204 +1,295 @@
-<!-- Dynamic Public Banner: Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thimethane&theme=auto&hide_border=true&count_private=true" width="100%" />
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Timothe+Ringuyeneza+👋;AI+Engineer+%7C+Full-Stack+Engineer+%7C+Cloud+%26+DevOps+Engineer;Building+Intelligent+Systems+with+AI%2C+Cloud%2C+and+Secure+Engineering!">
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED HEADER BANNER                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-I’m a **Computer Scientist** building **intelligent, data-driven applications** and **scalable full-stack systems**. I specialize in **AI & Machine Learning**, **backend & frontend engineering**, and **cloud-native development**, by combining **practical engineering, computational thinking, and AI expertise** to deliver **innovative solutions** that solve real-world problems.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00b4d8&height=200&section=header&text=Timothe%20Ringuyeneza&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Engineer%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18&descColor=90e0ef&animation=fadeIn" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     TYPING ANIMATION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <a href="https://github.com/Thimethane">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems+with+AI+%F0%9F%A4%96;Cloud-Native+%7C+Full-Stack+%7C+DevSecOps+Engineer+%E2%98%81%EF%B8%8F;Turning+Data+Into+Decisions+%F0%9F%93%8A;Open+to+Collaborations+%26+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     PROFILE VIEWS + SOCIAL BADGES              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Thimethane&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Thimethane)
+[![GitHub followers](https://img.shields.io/github/followers/Thimethane?style=for-the-badge&color=00b4d8&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Thimethane?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timotheeringuyeneza/)
+[![CodePen](https://img.shields.io/badge/CODEPEN-Portfolio-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Thimethane)
+
+</div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
+
+```python
+class TimotheRinguyeneza:
+    def __init__(self):
+        self.name        = "Timothe Ringuyeneza"
+        self.title       = "Computer Scientist · AI Engineer · Full-Stack · Cloud & DevOps"
+        self.location    = "🌍 Kigali, Rwanda"
+        self.email       = "ringutimothee@gmail.com"
+        self.languages   = ["Python", "Java", "JavaScript", "PHP", "C", "Kotlin", "Swift", "SQL", "Bash"]
+        self.interests   = ["ML Engineering", "Cloud-Native Systems", "Secure Coding", "DevOps", "Computer Graphics"]
+        self.community   = ["Mentor · Instructor · Former Tech Club President · Hackathon Organizer"]
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something extraordinary together 🚀")
+
+me = TimotheRinguyeneza()
+me.say_hi()
+```
+
+> 🧠 I build **intelligent, data-driven applications** and **scalable full-stack systems** — combining **practical engineering, computational thinking, and AI expertise** to solve real-world problems.
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS GRID                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thimethane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&ring_color=00b4d8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thimethane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&langs_count=10" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thimethane&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=caf0f8&dates=90e0ef&stroke=00b4d8" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thimethane&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thimethane&bg_color=0d1117&color=00b4d8&line=0096c7&point=caf0f8&area=true&hide_border=true" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Tech Stack & Expertise
+
+<details open>
+<summary><b>🧠 AI, Data Science & Machine Learning</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F3631D?style=for-the-badge&logo=jupyter&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-CC0000?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🖥️ Backend & Server-Side Development</b></summary>
+<br/>
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🎨 Frontend, UI & Graphics</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=for-the-badge&logo=java&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⚙️ DevOps, Cloud & Infrastructure</b></summary>
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🔐 Systems, Security & Mobile</b></summary>
+<br/>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     FEATURED PROJECTS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🔭 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 📋 Description | 🛠️ Stack |
+|:---|:---|:---|
+| [**CodesCraftsman**](https://gitfront.io/r/Thimethane/ucyPJ4GgME7t/codescraftman) | AI-powered developer portfolio with live ML demos, LangChain chatbot & dashboards | `Django` `LangChain` `PyTorch` `Redis` |
+| [**CodeFusion Platform**](https://gitfront.io/r/Thimethane/HBVS1hzFgJp7/CodeFusion-Portfolio/) | Dockerized full-stack platform with ML sentiment analysis & real-time chat | `Laravel` `FastAPI` `Docker` `MySQL` |
+| [**iOS Test Tracker**](https://github.com/Thimethane/swiftful-playgound) | SwiftUI task tracker for ABC Computers PVT LTD with dynamic test-set generation | `Swift 5.9` `SwiftUI` `Xcode` |
+| [**simple_shell**](https://github.com/Thimethane/simple_shell) | UNIX shell in C — parsing, process control, system calls | `C` `Linux` `Systems Programming` |
+| [**ussd-tourism**](https://github.com/Thimethane/ussd-tourism) | Spring Boot USSD service for tourism applications | `Java` `Spring Boot` `USSD` |
+| [**WeatherApplication**](https://github.com/Thimethane/WeatherApplication) | JavaFX real-time weather forecast app with clean UI | `Java` `JavaFX` `REST API` |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  COMPUTER GRAPHICS SHOWCASE                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎨 Creative Coding & Computer Graphics
 
-I explore **interactive graphics, computer graphics modeling, and web-based visualizations** through hands-on projects and experiments.  
-My CodePen profile showcases a collection of **WebGL experiments, animations, polygons, and creative coding demos**, demonstrating concepts such as **vertices, transformations, and real-time rendering**.
+> I explore **interactive graphics, WebGL experiments, and real-time rendering** through hands-on creative coding.
 
-🔗 **Explore my Computer Graphics Projects on CodePen:** [https://codepen.io/Thimethane](https://codepen.io/Thimethane)
+<div align="center">
 
-### Earth and Moon Animation
+[![Earth and Moon Animation](https://screenshot.codepen.io/QwKGZPM/lg.png)](https://codepen.io/Thimethane/full/QwKGZPM)
 
-[![Earth and Moon Animation Preview](https://screenshot.codepen.io/QwKGZPM/lg.png)](https://codepen.io/Thimethane/full/QwKGZPM)
+**▶️ [Click to view the live Earth & Moon Animation on CodePen](https://codepen.io/Thimethane/full/QwKGZPM)**
 
-> **[Click here to view the live interactive animation on CodePen](https://codepen.io/Thimethane/full/QwKGZPM)**
+[![CodePen Portfolio](https://img.shields.io/badge/🎨_Explore_All_Graphics_Projects-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Thimethane)
 
----
+</div>
 
-# 🚀 Tech Stack
-
-## 🧠 **AI, Data Science & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F3631D?style=flat-square&logo=jupyter&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-CC0000?style=flat-square)
+Topics explored: `WebGL` · `Three.js` · `Vertices & Transformations` · `Real-Time Rendering` · `Polygon Animation` · `Creative Coding`
 
 ---
 
-## 🖥️ **Backend & Server-Side Development**
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat-square&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CONTRIBUTION SNAKE                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 📡 **Server Technologies**
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-121212?style=flat-square)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-0C479D?style=flat-square)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thimethane/Thimethane/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thimethane/Thimethane/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Thimethane/Thimethane/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+> 💡 **To enable the snake animation**, add a GitHub Actions workflow in your repo:  
+> `.github/workflows/snake.yml` — [See setup guide](https://github.com/Platane/snk)
 
 ---
 
-## 🎨 **Frontend, UI & GUI Development**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     LEARNING SOURCES                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 🖥️ **Cross-Platform GUI Frameworks**
-![Swing](https://img.shields.io/badge/Java_Swing-5382A1?style=flat-square&logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=flat-square&logo=java&logoColor=white)
-![SWT](https://img.shields.io/badge/SWT-1572B6?style=flat-square&logo=eclipse&logoColor=white)
-![AWT](https://img.shields.io/badge/AWT-DC322F?style=flat-square&logo=java&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat-square&logo=python&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![PySide](https://img.shields.io/badge/PySide-0078D7?style=flat-square&logo=qt&logoColor=white)
-![Kivy](https://img.shields.io/badge/Kivy-4A8F46?style=flat-square&logo=kivy&logoColor=white)
-![wxPython](https://img.shields.io/badge/wxPython-FF0000?style=flat-square&logo=python&logoColor=white)
-![DearPyGui](https://img.shields.io/badge/Dear_PyGui-FFB000?style=flat-square&logo=python&logoColor=white)
+## ⭐ Starred — My Learning Arsenal
 
----
+<div align="center">
 
-## ⚙️ **DevOps, Cloud & Deployment**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+| Repository | Why I Starred It |
+|:---|:---|
+| [![awesome-python](https://img.shields.io/badge/⭐_awesome--python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/vinta/awesome-python) | Expands my Python & AI toolset |
+| [![django-rest-framework](https://img.shields.io/badge/⭐_django--rest--framework-092E20?style=flat-square&logo=django&logoColor=white)](https://github.com/encode/django-rest-framework) | API development best practices |
+| [![fastapi](https://img.shields.io/badge/⭐_fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/tiangolo/fastapi) | High-performance Python APIs |
+| [![docker-labs](https://img.shields.io/badge/⭐_docker--labs-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/docker/labs) | Containers & DevOps mastery |
+| [![kubernetes](https://img.shields.io/badge/⭐_kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/kubernetes/kubernetes) | Cloud-native orchestration |
+| [![awesome-ml](https://img.shields.io/badge/⭐_awesome--machine--learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/josephmisiti/awesome-machine-learning) | ML frameworks & research |
+| [![linux](https://img.shields.io/badge/⭐_linux--kernel-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/torvalds/linux) | Low-level systems knowledge |
+
+</div>
 
 ---
 
-## 🔐 **Systems & Security**
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_ringutimothee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ringutimothee@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-timotheeringuyeneza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timotheeringuyeneza/)
+[![GitHub](https://img.shields.io/badge/GitHub-Thimethane-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thimethane)
+[![CodePen](https://img.shields.io/badge/CodePen-Thimethane-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Thimethane)
+
+</div>
 
 ---
 
-## 📱 **Mobile App Development**
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     FOOTER WAVE                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
----
+<div align="center">
 
-# 📊 GitHub Metrics
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thimethane&show_icons=true&theme=default&hide_border=false" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thimethane&layout=compact&theme=default&hide_border=false" height="170px" />
-</p>
+**✨ Thanks for visiting — contributions, feedback & collaborations are always welcome!**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thimethane&theme=default&row=1&column=7&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
+*"Code is poetry. Data is the canvas. Intelligence is the art."*
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thimethane&theme=default&hide_border=false" alt="Contribution graph" />
-</p>
+![Wave](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png)
 
----
-
-# 🚀 Featured Projects
-
-### 🔭 **iOS Test Tracking App – Swift Playground**
-A **SwiftUI-based interactive task tracker** simulating research tasks for ABC Computers PVT LTD. Tracks **TestSet 1 (odd days)** and **TestSet 2 (even days)** over a three-month period with dynamic generation and interactive status updates.
-
-**Tech:** Swift 5.9, SwiftUI, Xcode Playground  
-🔗 [View Repository](https://github.com/Thimethane/swiftful-playgound)
-
----
-
-### 🔭 **CodesCraftsman** — AI-Powered Developer Portfolio  
-Personal portfolio integrating **live ML demos**, LangChain chatbot, dashboards, and more.  
-**Tech:** Django, LangChain, Python, PyTorch, Redis  
-🔗 [View Repository](https://gitfront.io/r/Thimethane/ucyPJ4GgME7t/codescraftman)
-
----
-
-### ⚡ **CodeFusion Platform** — Dockerized Full-Stack System  
-Laravel + FastAPI platform with **ML sentiment analysis**, real-time chat, and dashboards.  
-**Tech:** Laravel, PHP, FastAPI, Python, Docker, MySQL  
-🔗 [View Repository](https://gitfront.io/r/Thimethane/HBVS1hzFgJp7/CodeFusion-Portfolio/)
-
----
-
-### 🖥️ **Computer Graphics Projects – WebGL & Creative Coding**
-A collection of interactive **WebGL-based computer graphics experiments** including polygons, transformations, and real-time animations.  
-**Tech:** WebGL, Three.js, JavaScript, HTML, CSS  
-🔗 **Explore CodePen Portfolio:** [https://codepen.io/Thimethane](https://codepen.io/Thimethane)
-
----
-
-### 🐚 **simple_shell** — UNIX Shell in C  
-Implements parsing, process control, and system calls.  
-🔗 [View Repository](https://github.com/Thimethane/simple_shell)
-
-### ☎️ **ussd-tourism** — Java USSD Service  
-Spring Boot USSD application for tourism services.  
-🔗 [View Repository](https://github.com/Thimethane/ussd-tourism)
-
-### ⛅ **WeatherApplication** — JavaFX Weather App  
-Real-time weather forecast app with clean UI and API integration.  
-🔗 [View Repository](https://github.com/Thimethane/WeatherApplication)
-
----
-
-# 👤 About Me
-
-- **Computer Scientist (AI + Software + Cloud)**  
-- Interested in **computational modeling, ML engineering, and scalable cloud systems**  
-- Advocate for **secure coding**, automation, and DevOps best practices  
-- Mentor & community instructor (Python, Data Analytics, AI)  
-- Former **Tech Club President** and hackathon organizer
-
-📫 **Email:** ringutimothee@gmail.com  
-
-**Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timotheeringuyeneza/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Thimethane)  
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/Thimethane)
-
----
-
-# ⭐ Starred Repositories — My Learning Sources
-
-| Repository | Why I Starred It | Link |
-|-----------|------------------|------|
-| `awesome-python` 🐍 | Expands my Python & AI toolset | https://github.com/vinta/awesome-python |
-| `django-rest-framework` 🌐 | API development best practices | https://github.com/encode/django-rest-framework |
-| `fastapi` ⚡ | High-performance Python APIs | https://github.com/tiangolo/fastapi |
-| `docker-labs` 🐳 | Containers & DevOps mastery | https://github.com/docker/labs |
-| `kubernetes` ☸️ | Cloud-native orchestration | https://github.com/kubernetes/kubernetes |
-| `awesome-machine-learning` 🤖 | ML frameworks & research | https://github.com/josephmisiti/awesome-machine-learning |
-| `system-programming` 💻 | Low-level systems knowledge | https://github.com/torvalds/linux |
-
----
-
-### ✔️ Thank you for exploring my work!  
-*Contributions, feedback, and collaborations are always welcome.*
+</div>
