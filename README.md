@@ -141,6 +141,15 @@ I work across the full stack. These are the tools I reach for most.
 ## Coding Time
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 18 March 2026 - To: 25 March 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
