@@ -1,0 +1,63 @@
+import os
+import re
+import sys
+import requests
+
+username = os.environ["GITHUB_USERNAME"]
+token = os.environ["GITHUB_TOKEN"]
+
+headers = {
+    "Authorization": f"Bearer {token}",
+    "Accept": "application/vnd.github+json",
+    "X-GitHub-Api-Version": "2022-11-28",
+}
+
+response = requests.get(
+    f"https://api.github.com/users/{username}/repos",
+    headers=headers,
+    params={"sort": "updated", "direction": "desc", "per_page": 6, "type": "public"},
+)
+
+if response.status_code != 200:
+    print(f"GitHub API error {response.status_code}: {response.text}")
+    sys.exit(1)
+
+repos = response.json()
+
+if not isinstance(repos, list):
+    print(f"Unexpected response shape: {repos}")
+    sys.exit(1)
+
+rows = [
+    "| Repository | Description | Language | Stars |",
+    "|:-----------|:------------|:---------|:------|",
+]
+
+for r in repos:
+    name  = r.get("name", "")
+    desc  = (r.get("description") or "—").replace("|", "\\|")
+    lang  = r.get("language") or "—"
+    link  = r.get("html_url", "")
+    badge = (
+        f"![](https://img.shields.io/github/stars/{username}/{name}"
+        f"?style=flat-square&color=4fc3f7&labelColor=0d1117)"
+    )
+    rows.append(f"| [{name}]({link}) | {desc} | {lang} | {badge} |")
+
+new_block = "\n".join(rows)
+
+with open("README.md", "r", encoding="utf-8") as f:
+    content = f.read()
+
+pattern = r"<!-- REPO-LIST:START -->.*?<!-- REPO-LIST:END -->"
+replacement = f"<!-- REPO-LIST:START -->\n{new_block}\n<!-- REPO-LIST:END -->"
+updated, n = re.subn(pattern, replacement, content, flags=re.DOTALL)
+
+if n == 0:
+    print("ERROR: REPO-LIST markers not found in README.md — check your README.")
+    sys.exit(1)
+
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(updated)
+
+print(f"Updated README with {len(repos)} repositories.")
