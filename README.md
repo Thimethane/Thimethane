@@ -73,10 +73,12 @@ Currently based in Kigali, Rwanda. Always interested in meaningful collaboration
 <!-- REPO-LIST:START -->
 | Repository | Description | Language | Stars |
 |:-----------|:------------|:---------|:------|
-| [simple_shell](https://github.com/Thimethane/simple_shell) | UNIX shell written in C — process control, parsing, and system calls from scratch | C | ![](https://img.shields.io/github/stars/Thimethane/simple_shell?style=flat-square&color=4fc3f7&labelColor=0d1117) |
-| [ussd-tourism](https://github.com/Thimethane/ussd-tourism) | Spring Boot USSD service for tourism applications | Java | ![](https://img.shields.io/github/stars/Thimethane/ussd-tourism?style=flat-square&color=4fc3f7&labelColor=0d1117) |
-| [WeatherApplication](https://github.com/Thimethane/WeatherApplication) | JavaFX weather forecast app with live API data and a clean UI | Java | ![](https://img.shields.io/github/stars/Thimethane/WeatherApplication?style=flat-square&color=4fc3f7&labelColor=0d1117) |
-| [swiftful-playgound](https://github.com/Thimethane/swiftful-playgound) | SwiftUI task tracker for iOS — built as a Swift playground | Swift | ![](https://img.shields.io/github/stars/Thimethane/swiftful-playgound?style=flat-square&color=4fc3f7&labelColor=0d1117) |
+| [Thimethane](https://github.com/Thimethane/Thimethane) | — | Python | ![](https://img.shields.io/github/stars/Thimethane/Thimethane?style=flat-square&color=4fc3f7&labelColor=0d1117) |
+| [trucking-app](https://github.com/Thimethane/trucking-app) | LogiFlow is a production-ready, full-stack logistics solution designed for property-carrying commercial drivers. It optimizes trip routing while ensuring strict compliance with FMCSA Hours of Service (HOS) regulations. | JavaScript | ![](https://img.shields.io/github/stars/Thimethane/trucking-app?style=flat-square&color=4fc3f7&labelColor=0d1117) |
+| [FuelWise-Route-Optimizer](https://github.com/Thimethane/FuelWise-Route-Optimizer) | High-performance Django API that calculates the most cost-effective fuel stops between two U.S. locations. Generates an optimized route, selects fuel stations based on price and a 500-mile vehicle range, and computes total fuel cost (10 MPG). Designed for minimal external API calls and fast response times. | Python | ![](https://img.shields.io/github/stars/Thimethane/FuelWise-Route-Optimizer?style=flat-square&color=4fc3f7&labelColor=0d1117) |
+| [NEUROAEGIS-CORTEX](https://github.com/Thimethane/NEUROAEGIS-CORTEX) | Formerly known as AegisAI, NeuroAegis Cortex brings the project to life with advanced features, enhanced capabilities, and a uniquely innovative vision focused on intelligent protection and future-ready projections. | Python | ![](https://img.shields.io/github/stars/Thimethane/NEUROAEGIS-CORTEX?style=flat-square&color=4fc3f7&labelColor=0d1117) |
+| [mrwa-system](https://github.com/Thimethane/mrwa-system) | — | Python | ![](https://img.shields.io/github/stars/Thimethane/mrwa-system?style=flat-square&color=4fc3f7&labelColor=0d1117) |
+| [MRWA](https://github.com/Thimethane/MRWA) | Marathon Research & Workflow Agent | Python | ![](https://img.shields.io/github/stars/Thimethane/MRWA?style=flat-square&color=4fc3f7&labelColor=0d1117) |
 <!-- REPO-LIST:END -->
 
 ---
