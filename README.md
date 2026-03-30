@@ -105,36 +105,39 @@ Beyond what's public, I've built **CodesCraftsman** — a personal portfolio int
 ---
 
 ## Technologies
-
+ 
 I work across the full stack. These are the tools I reach for most.
-
-**Artificial Intelligence & Data**
-
+ 
+<table>
+<tr>
+<td valign="top" width="50%">
+ 
+**AI & Machine Learning**
 [![](https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark)](https://skillicons.dev)
-
+ 
 **Backend**
-
-[![](https://skillicons.dev/icons?i=django,fastapi,spring,laravel,nodejs,nestjs,express,java,php&theme=dark)](https://skillicons.dev)
-
-**Databases & Caching**
-
+[![](https://skillicons.dev/icons?i=django,fastapi,spring,laravel,nodejs,nestjs,java,php&theme=dark)](https://skillicons.dev)
+ 
+**Databases**
 [![](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark)](https://skillicons.dev)
-
+ 
+</td>
+<td valign="top" width="50%">
+ 
 **Frontend & Graphics**
-
 [![](https://skillicons.dev/icons?i=react,html,css,bootstrap,js,threejs&theme=dark)](https://skillicons.dev)
-
+ 
 **Infrastructure & Cloud**
-
-[![](https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,nginx,gitlab,jenkins,linux,bash&theme=dark)](https://skillicons.dev)
-
-**Mobile & Systems**
-
-[![](https://skillicons.dev/icons?i=kotlin,swift,c&theme=dark)](https://skillicons.dev)
-
-**Tooling**
-
-[![](https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,jupyter&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,nginx,gitlab,jenkins,linux&theme=dark)](https://skillicons.dev)
+ 
+**Mobile, Systems & Tooling**
+[![](https://skillicons.dev/icons?i=kotlin,swift,c,bash,git,vscode,idea,postman&theme=dark)](https://skillicons.dev)
+ 
+</td>
+</tr>
+</table>
+ 
+<br/>
 
 ---
 
