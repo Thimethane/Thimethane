@@ -73,9 +73,9 @@ Currently based in Kigali, Rwanda. Always interested in meaningful collaboration
 <!-- REPO-LIST:START -->
 | Repository | Description | Language | Stars |
 |:-----------|:------------|:---------|:------|
-| [divide-and-conquer](https://github.com/Thimethane/divide-and-conquer) | — | — | ![](https://img.shields.io/github/stars/Thimethane/divide-and-conquer?style=flat-square&color=4fc3f7&labelColor=0d1117) |
-| [karatradeway](https://github.com/Thimethane/karatradeway) | — | — | ![](https://img.shields.io/github/stars/Thimethane/karatradeway?style=flat-square&color=4fc3f7&labelColor=0d1117) |
+| [divide-and-conquer](https://github.com/Thimethane/divide-and-conquer) | — | Java | ![](https://img.shields.io/github/stars/Thimethane/divide-and-conquer?style=flat-square&color=4fc3f7&labelColor=0d1117) |
 | [Thimethane](https://github.com/Thimethane/Thimethane) | — | Python | ![](https://img.shields.io/github/stars/Thimethane/Thimethane?style=flat-square&color=4fc3f7&labelColor=0d1117) |
+| [karatradeway](https://github.com/Thimethane/karatradeway) | — | — | ![](https://img.shields.io/github/stars/Thimethane/karatradeway?style=flat-square&color=4fc3f7&labelColor=0d1117) |
 | [SimCore-Arena](https://github.com/Thimethane/SimCore-Arena) | Real-Time AI Simulation with Python & C++ using Panda3D | Python | ![](https://img.shields.io/github/stars/Thimethane/SimCore-Arena?style=flat-square&color=4fc3f7&labelColor=0d1117) |
 | [MyBMIApp](https://github.com/Thimethane/MyBMIApp) | — | Swift | ![](https://img.shields.io/github/stars/Thimethane/MyBMIApp?style=flat-square&color=4fc3f7&labelColor=0d1117) |
 | [trucking-app](https://github.com/Thimethane/trucking-app) | LogiFlow is a production-ready, full-stack logistics solution designed for property-carrying commercial drivers. It optimizes trip routing while ensuring strict compliance with FMCSA Hours of Service (HOS) regulations. | JavaScript | ![](https://img.shields.io/github/stars/Thimethane/trucking-app?style=flat-square&color=4fc3f7&labelColor=0d1117) |
