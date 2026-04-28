@@ -148,11 +148,11 @@ I work across the full stack. These are the tools I reach for most.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2026 - To: 26 April 2026
+From: 20 April 2026 - To: 27 April 2026
 
-Total Time: 0 secs
+Total Time: 1 hr 40 mins
 
-No activity tracked
+Other                      39 mins               ███████░░░░░░░░░░░░░░░░░░   28.18 %
 ```
 
 <!--END_SECTION:waka-->
