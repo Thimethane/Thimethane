@@ -148,14 +148,13 @@ I work across the full stack. These are the tools I reach for most.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2026 - To: 08 May 2026
+From: 02 May 2026 - To: 09 May 2026
 
-Total Time: 1 hr 57 mins
+Total Time: 2 hrs 39 mins
 
-Python                     57 mins               ████████████░░░░░░░░░░░░░   47.62 %
-Markdown                   44 mins               █████████▒░░░░░░░░░░░░░░░   36.81 %
-TypeScript                 12 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-Other                      4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Markdown                   1 hr 12 mins          █████████▒░░░░░░░░░░░░░░░   37.91 %
+Python                     1 hr 10 mins          █████████░░░░░░░░░░░░░░░░   36.57 %
+Other                      33 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
 ```
 
 <!--END_SECTION:waka-->
