@@ -73,8 +73,8 @@ Currently based in Kigali, Rwanda. Always interested in meaningful collaboration
 <!-- REPO-LIST:START -->
 | Repository | Description | Language | Stars |
 |:-----------|:------------|:---------|:------|
-| [CodeFusion-Portfolio](https://github.com/Thimethane/CodeFusion-Portfolio) | A full-stack, interactive portfolio project combining Laravel, FastAPI, MySQL, Docker, dynamic analytics, ML features, chatbot, and real-time live chat. | Blade | ![](https://img.shields.io/github/stars/Thimethane/CodeFusion-Portfolio?style=flat-square&color=4fc3f7&labelColor=0d1117) |
 | [Thimethane](https://github.com/Thimethane/Thimethane) | — | Python | ![](https://img.shields.io/github/stars/Thimethane/Thimethane?style=flat-square&color=4fc3f7&labelColor=0d1117) |
+| [CodeFusion-Portfolio](https://github.com/Thimethane/CodeFusion-Portfolio) | A full-stack, interactive portfolio project combining Laravel, FastAPI, MySQL, Docker, dynamic analytics, ML features, chatbot, and real-time live chat. | Blade | ![](https://img.shields.io/github/stars/Thimethane/CodeFusion-Portfolio?style=flat-square&color=4fc3f7&labelColor=0d1117) |
 | [ionosphere-decision-tree](https://github.com/Thimethane/ionosphere-decision-tree) | — | R | ![](https://img.shields.io/github/stars/Thimethane/ionosphere-decision-tree?style=flat-square&color=4fc3f7&labelColor=0d1117) |
 | [divide-and-conquer](https://github.com/Thimethane/divide-and-conquer) | — | Java | ![](https://img.shields.io/github/stars/Thimethane/divide-and-conquer?style=flat-square&color=4fc3f7&labelColor=0d1117) |
 | [SimCore-Arena](https://github.com/Thimethane/SimCore-Arena) | Real-Time AI Simulation with Python & C++ using Panda3D | Python | ![](https://img.shields.io/github/stars/Thimethane/SimCore-Arena?style=flat-square&color=4fc3f7&labelColor=0d1117) |
