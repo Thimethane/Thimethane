@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:0d1117&height=220&section=header&text=Timothe%20Ringuyeneza&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%94%20Full-Stack%20%E2%80%94%20Cloud%20%26%20DevOps&descAlignY=60&descSize=18&descColor=4fc3f7&animation=fadeIn" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Timothe+Ringuyeneza;AI+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+%26+DevOps" />
 
 <div align="center">
 
@@ -14,26 +14,10 @@
 
 </div>
 
-<br/>
-
----
-
-I'm a Computer Scientist working at the intersection of artificial intelligence, full-stack engineering, and cloud infrastructure. I design and build systems that are intelligent by default, not by afterthought — from ML pipelines and LLM-powered applications to containerised microservices and DevOps automation.
-
-I've spent time as a tech club president, hackathon organiser, and community instructor for Python and data analytics. I believe in writing code that other people can understand, systems that can be trusted, and software that actually earns its place in the world.
-
-Currently based in Kigali, Rwanda. Always interested in meaningful collaboration.
-
----
+I build intelligent, production-ready systems at the intersection of artificial intelligence, full-stack engineering, and cloud infrastructure, spanning ML pipelines and data-driven systems, LLM-powered applications, containerized microservices architectures, and DevOps automation workflows. My focus is on systems where intelligence is designed into the foundation rather than added as an afterthought. Beyond backend engineering, I explore WebGL and Three.js as a spatial computing medium, treating the browser as a canvas for real-time visualization, a tool for spatial reasoning, and a space for interactive computational design. I build systems that think, design interfaces that respond, and engineer experiences that feel alive.
 
 ## Work & Activity
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thimethane&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=4fc3f7&icon_color=4fc3f7&text_color=e0e0e0&ring_color=4fc3f7&hide_title=false" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thimethane&layout=compact&hide_border=true&bg_color=0d1117&title_color=4fc3f7&text_color=e0e0e0&langs_count=10&card_width=445" />
-
-</div>
 
 <div align="center">
 
@@ -59,15 +43,6 @@ Currently based in Kigali, Rwanda. Always interested in meaningful collaboration
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thimethane&bg_color=0d1117&color=4fc3f7&line=0288d1&point=e0e0e0&area=true&hide_border=true" />
 </div>
 
----
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## Latest Repositories
 
 <!-- REPO-LIST:START -->
@@ -81,67 +56,51 @@ Currently based in Kigali, Rwanda. Always interested in meaningful collaboration
 | [MyBMIApp](https://github.com/Thimethane/MyBMIApp) | — | Swift | ![](https://img.shields.io/github/stars/Thimethane/MyBMIApp?style=flat-square&color=4fc3f7&labelColor=0d1117) |
 <!-- REPO-LIST:END -->
 
----
-
-## Selected Projects
-
-<div align="center">
-
-<a href="https://gitfront.io/r/Thimethane/ucyPJ4GgME7t/codescraftman">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thimethane&repo=simple_shell&hide_border=true&bg_color=0d1117&title_color=4fc3f7&icon_color=4fc3f7&text_color=e0e0e0" />
-</a>
-<a href="https://github.com/Thimethane/WeatherApplication">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thimethane&repo=WeatherApplication&hide_border=true&bg_color=0d1117&title_color=4fc3f7&icon_color=4fc3f7&text_color=e0e0e0" />
-</a>
-<a href="https://github.com/Thimethane/ussd-tourism">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thimethane&repo=ussd-tourism&hide_border=true&bg_color=0d1117&title_color=4fc3f7&icon_color=4fc3f7&text_color=e0e0e0" />
-</a>
-<a href="https://github.com/Thimethane/swiftful-playgound">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thimethane&repo=swiftful-playgound&hide_border=true&bg_color=0d1117&title_color=4fc3f7&icon_color=4fc3f7&text_color=e0e0e0" />
-</a>
-
-</div>
-
-Beyond what's public, I've built **CodesCraftsman** — a personal portfolio integrating live ML demos, a LangChain-powered chatbot, and real-time dashboards (Django · PyTorch · Redis) — and **CodeFusion**, a dockerised full-stack platform with sentiment analysis, real-time messaging, and multi-service orchestration (Laravel · FastAPI · MySQL · Docker).
-
----
-
 ## Technologies
- 
-I work across the full stack. These are the tools I reach for most.
- 
+
+I work across the full stack, with a strong focus on AI systems, data-driven applications, and scalable backend architectures. These are the tools I use most often.
+
 <table>
 <tr>
 <td valign="top" width="50%">
- 
-**AI & Machine Learning**
-[![](https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark)](https://skillicons.dev)
- 
-**Backend**
-[![](https://skillicons.dev/icons?i=django,fastapi,spring,laravel,nodejs,nestjs,java,php&theme=dark)](https://skillicons.dev)
- 
-**Databases**
-[![](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark)](https://skillicons.dev)
- 
+
+### AI & Machine Learning
+[![](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark)](https://skillicons.dev)
+
+### Data Science (R Ecosystem)
+[![](https://skillicons.dev/icons?i=r&theme=dark)](https://skillicons.dev)
+
+- tidyverse (dplyr, ggplot2, tidyr)
+- caret
+- data.table
+- shiny
+- rmarkdown
+- ggplot2
+
+### Backend Engineering
+[![](https://skillicons.dev/icons?i=fastapi,django,nodejs,nestjs,spring,java,php&theme=dark)](https://skillicons.dev)
+
+### Databases & Data Storage
+[![](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,sqlite&theme=dark)](https://skillicons.dev)
+
 </td>
+
 <td valign="top" width="50%">
- 
-**Frontend & Graphics**
-[![](https://skillicons.dev/icons?i=react,html,css,bootstrap,js,threejs&theme=dark)](https://skillicons.dev)
- 
-**Infrastructure & Cloud**
-[![](https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,nginx,gitlab,jenkins,linux&theme=dark)](https://skillicons.dev)
- 
-**Mobile, Systems & Tooling**
-[![](https://skillicons.dev/icons?i=kotlin,swift,c,bash,git,vscode,idea,postman&theme=dark)](https://skillicons.dev)
- 
+
+### Frontend & Visualization
+[![](https://skillicons.dev/icons?i=react,nextjs,html,css,js,typescript,threejs,d3&theme=dark)](https://skillicons.dev)
+
+### Cloud & DevOps (MLOps-ready)
+[![](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,gitlab,jenkins,githubactions,linux&theme=dark)](https://skillicons.dev)
+
+### Mobile, Systems & Tools
+[![](https://skillicons.dev/icons?i=kotlin,swift,c,bash,git,vscode,idea,postman,figma&theme=dark)](https://skillicons.dev)
+
 </td>
 </tr>
 </table>
- 
-<br/>
 
----
+<br/>
 
 ## Coding Time
 
@@ -158,28 +117,6 @@ Other                      1 hr 21 mins          ████▓░░░░░�
 
 <!--END_SECTION:waka-->
 
----
-
-## Computer Graphics
-
-I explore WebGL, Three.js, and real-time rendering as a creative discipline — treating the browser as a canvas for spatial thinking and visual computation. The work lives on CodePen.
-
-<div align="center">
-
-<a href="https://codepen.io/Thimethane/full/QwKGZPM">
-  <img src="https://screenshot.codepen.io/QwKGZPM/lg.png" width="80%" alt="Earth and Moon Animation" style="border-radius:8px"/>
-</a>
-
-<br/><br/>
-
-[![View on CodePen](https://img.shields.io/badge/View%20on%20CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/Thimethane/full/QwKGZPM)
-&nbsp;
-[![Full Portfolio](https://img.shields.io/badge/Full%20Portfolio-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/Thimethane)
-
-</div>
-
----
-
 ## Contribution Graph
 
 <div align="center">
@@ -190,8 +127,6 @@ I explore WebGL, Three.js, and real-time rendering as a creative discipline — 
   </picture>
 </div>
 
----
-
 ## A Thought
 
 <div align="center">
@@ -200,21 +135,23 @@ I explore WebGL, Three.js, and real-time rendering as a creative discipline — 
 
 </div>
 
----
-
 ## Connect
 
-I'm reachable by email and open to conversations about engineering, AI, collaboration, or anything interesting.
+I'm open to conversations around AI, software engineering, systems design, collaboration, and anything intellectually interesting.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/ringutimothee%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=4fc3f7)](mailto:ringutimothee@gmail.com)
+[![Email](https://img.shields.io/badge/ringutimothee%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=93c5fd)](mailto:ringutimothee@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=4fc3f7)](https://www.linkedin.com/in/timotheeringuyeneza/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=93c5fd)](https://www.linkedin.com/in/timotheeringuyeneza/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=4fc3f7)](https://github.com/Thimethane)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=93c5fd)](https://github.com/Thimethane)
 &nbsp;
-[![CodePen](https://img.shields.io/badge/CodePen-0d1117?style=flat-square&logo=codepen&logoColor=4fc3f7)](https://codepen.io/Thimethane)
+[![CodePen](https://img.shields.io/badge/CodePen-0d1117?style=flat-square&logo=codepen&logoColor=93c5fd)](https://codepen.io/Thimethane)
+&nbsp;
+[![Posit Cloud](https://img.shields.io/badge/Posit_Cloud-0d1117?style=flat-square&logo=rstudio&logoColor=93c5fd)](https://connect.posit.cloud/thimethane)
+&nbsp;
+[![Devpost](https://img.shields.io/badge/Devpost-0d1117?style=flat-square&logo=devpost&logoColor=93c5fd)](https://devpost.com/Thimethane)
 
 </div>
 
