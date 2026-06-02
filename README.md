@@ -107,16 +107,16 @@ I work across the full stack, with a strong focus on AI systems, data-driven app
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2026 - To: 30 May 2026
+From: 24 May 2026 - To: 31 May 2026
 
-Total Time: 9 hrs 52 mins
+Total Time: 9 hrs 32 mins
 
-Markdown     3 hrs 32 mins         ████████▒░░░░░░░░░░░░░░░░   33.79 %
-Python       1 hr 31 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-TypeScript   1 hr 25 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
-Bash         1 hr 22 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Docker       1 hr 14 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-Other        36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Markdown     3 hrs 19 mins         ████████▒░░░░░░░░░░░░░░░░   32.83 %
+Python       1 hr 31 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
+Bash         1 hr 22 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
+TypeScript   1 hr 17 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+Docker       1 hr 14 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+Other        36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
 ```
 
 <!--END_SECTION:waka-->
