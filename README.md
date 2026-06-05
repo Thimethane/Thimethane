@@ -107,16 +107,11 @@ I work across the full stack, with a strong focus on AI systems, data-driven app
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2026 - To: 02 June 2026
+From: 27 May 2026 - To: 03 June 2026
 
-Total Time: 3 hrs 29 mins
+Total Time: 0 secs
 
-Bash         1 hr 4 mins           ███████▒░░░░░░░░░░░░░░░░░   29.99 %
-TypeScript   48 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
-Markdown     46 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.32 %
-Python       32 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
-Text         16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-Other        6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
