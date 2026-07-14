@@ -1,4 +1,4 @@
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Timothe+Ringuyeneza;AI+Engineer+%7C+Full-Stack+Developer+%7C+Cloud+%26+DevOps" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Timothe+Ringuyeneza;AI+Engineer+%7C+Software+Engineer+%7C+Cloud+%26+DevOps" />
 
 <div align="center">
 
