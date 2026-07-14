@@ -20,9 +20,7 @@ I build intelligent, production-ready systems at the intersection of artificial 
 
 
 <div align="center">
-
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thimethane&hide_border=true&background=0d1117&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7&sideLabels=e0e0e0&dates=888888&stroke=4fc3f7" />
-
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thimethane&hide_border=true&background=0d1117&ring=4fc3f7&fire=4fc3f7&currStreakLabel=4fc3f7&sideLabels=e0e0e0&dates=888888&stroke=4fc3f7&currStreakNum=4fc3f7&sideNums=4fc3f7" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
