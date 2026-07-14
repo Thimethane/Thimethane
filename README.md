@@ -138,7 +138,7 @@ I'm open to conversations around AI, software engineering, systems design, colla
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/ringutimothee%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=93c5fd)](mailto:ringutimothee@gmail.com)
+[![Email](https://img.shields.io/badge/ringutimothee%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=93c5fd)](mailto:timotheeringuyeneza@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=93c5fd)](https://www.linkedin.com/in/timotheeringuyeneza/)
 &nbsp;
