@@ -36,7 +36,7 @@ I build intelligent, production-ready systems at the intersection of artificial 
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Thimethane&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=6" />
+  <img src="https://github-profile-trophy-1.vercel.app/?username=Thimethane&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=6" alt="Trophies" />
 </div>
 
 <div align="center">
