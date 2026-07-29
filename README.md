@@ -105,7 +105,7 @@ I work across the full stack, with a strong focus on AI systems, data-driven app
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2026 - To: 26 July 2026
+From: 21 July 2026 - To: 28 July 2026
 
 Total Time: 0 secs
 
